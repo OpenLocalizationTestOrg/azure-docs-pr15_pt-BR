@@ -1,0 +1,1 @@
+> [AZURE.NOTE] Agora você pode experimentar o serviço de aplicativo do Azure em Linux. Para obter mais informações, consulte o [guia de Introdução](../articles/app-service/app-service-linux-readme.md).

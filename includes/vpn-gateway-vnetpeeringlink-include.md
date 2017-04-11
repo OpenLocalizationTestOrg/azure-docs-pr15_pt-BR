@@ -1,0 +1,1 @@
+Também é possível conectar VNets sem usar um gateway VPN. Se seu VNets estiverem na mesma região, você talvez queira considerar conectá-los usando a correspondência de VNet. Para obter mais informações, consulte o artigo [VNet correspondência](../articles/virtual-network/virtual-network-peering-overview.md) .

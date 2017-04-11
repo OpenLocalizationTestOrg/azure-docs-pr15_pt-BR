@@ -1,0 +1,3 @@
+Definir um nome de domínio personalizado em um aplicativo web no serviço de aplicativo do Azure que é pelo Gerenciador de tráfego de balanceamento de carga só está disponível para sites de modo **padrão** . Antes de trocar de um aplicativo web do modo de plano de serviço de aplicativo gratuito para o modo compartilhado, Basic ou Standard, primeiro você deve remover caps gastos no lugar para sua assinatura do serviço de aplicativo. 
+
+Para obter mais informações sobre os modos de plano de serviço de aplicativo, incluindo como alterar o modo do seu site, consulte [como dimensionar sites da web](../articles/app-service-web/web-sites-scale.md).

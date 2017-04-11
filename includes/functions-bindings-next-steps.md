@@ -1,0 +1,1 @@
+Para obter informações sobre outras ligações e disparadores para funções do Azure, consulte [referência de desenvolvedor de ligações e gatilhos de funções do Azure](../articles/azure-functions/functions-triggers-bindings.md)

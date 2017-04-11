@@ -1,0 +1,3 @@
+Você pode criar máquinas virtuais (VMs) no Azure e anexar várias interfaces de rede (NICs) para cada uma das suas VMs. Multi NIC é uma exigência para muitos dispositivos virtuais de rede, como soluções de otimização de WAN e entrega de aplicativos. Multi NIC também fornece mais funcionalidade de gerenciamento de tráfego de rede, incluindo isolamento de tráfego entre um frente encerrar NIC e volta final NIC (s) ou separação de tráfego de plano de dados de tráfego de plano de gerenciamento.
+
+Antes de implementar vários NICs em VMs, é necessário compreender quando você pode usar vários NICs e como elas são usadas. Leia a [Visão geral NIC multi](../articles/virtual-network/virtual-networks-multiple-nics.md) para saber mais sobre VMs com várias placas de rede.

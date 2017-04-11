@@ -1,0 +1,5 @@
+Este artigo é para o serviço de aplicativo do Azure (aplicativos Web, aplicativos de API, aplicativos Mobile, aplicativos de lógica); para serviços de nuvem, consulte [Configurar um nome de domínio personalizado para um serviço de nuvem Azure](../articles/cloud-services/cloud-services-custom-domain-name.md).
+
+> [AZURE.NOTE]  Se você aplicativo for balanceamento de carga pelo [Gerenciador de tráfego do Azure](https://azure.microsoft.com/services/traffic-manager/), clique no seletor na parte superior deste artigo para obter etapas específicas.
+>
+> **Domínio personalizado nomes são não gratuitamente ativado camada**. Você deve [escala até um nível de preços superior](../articles/app-service-web/web-sites-scale.md), que podem mudar quanto você é cobrado para sua assinatura. Para obter mais informações, consulte [Preços de serviço de aplicativo](https://azure.microsoft.com/pricing/details/app-service/) .

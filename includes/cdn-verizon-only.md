@@ -1,0 +1,1 @@
+> [AZURE.IMPORTANT] Este recurso está disponível com produtos do **Azure CDN da Verizon** (padrão e Premium). Não é suportado em **Azure CDN do Akamai**.  Para uma comparação de recursos CDN, consulte [Visão geral de CDN do Azure](cdn-overview.md#azure-cdn-features). 

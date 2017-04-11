@@ -1,0 +1,1 @@
+> [AZURE.NOTE] Azure tem dois modelos de implantação diferentes para criar e trabalhar com recursos: [Gerenciador de recursos e clássico](../articles/resource-manager-deployment-model.md).  Este artigo aborda usando o modelo de implantação do Gerenciador de recursos, a Microsoft recomenda para a maioria das novas implantações em vez da

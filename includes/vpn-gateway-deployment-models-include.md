@@ -1,0 +1,5 @@
+É importante entender que Azure atualmente funciona com dois modelos de implantação: Gerenciador de recursos e clássico. Antes de começar a configuração, verifique se que você está usando as instruções para o modelo de implantação que você deseja trabalhar. Os dois modelos não são totalmente compatíveis com os outros.
+
+Por exemplo, se você estiver trabalhando com uma rede virtual que foi criada usando o modelo clássico de implantação e quiser adicionar uma conexão à VNet, você usaria os métodos de implantação que correspondem ao modelo clássico de implantação, não o Gerenciador de recursos. Se você estiver trabalhando com uma rede virtual que foi criada usando o modelo de implantação do Gerenciador de recursos, você usaria os métodos de implantação que correspondem com o Gerenciador de recursos, não clássico.
+
+Para obter informações sobre os modelos de implantação, consulte [Gerenciador de recursos de Noções básicas sobre implantação e implantação clássica](../articles/resource-manager-deployment-model.md).
