@@ -1,0 +1,3 @@
+### <a name="azure-resource-manager-and-azure-service-management"></a>Gerenciador de recursos de Azure Azure gerenciamento e serviço
+ 
+Este artigo é para um recurso Azure criado no Gerenciador de recursos, que a Microsoft recomenda sobre um recurso criado no gerenciamento de serviço. Para obter uma explicação das vantagens do Gerenciador de recursos, consulte [computação Azure, rede e provedores de armazenamento em Gerenciador de recursos do Azure](../articles/virtual-machines/virtual-machines-windows-compare-deployment-models.md). Para fazer a mesma tarefa para um recurso criado com gerenciamento de serviço do Azure, consulte o artigo a seguir:

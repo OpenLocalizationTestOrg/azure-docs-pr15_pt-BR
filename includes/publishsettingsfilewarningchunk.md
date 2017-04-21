@@ -1,0 +1,2 @@
+> [AZURE.NOTE]
+> O arquivo. publishsettings contém suas credenciais (sem codificação) que são usados para administrar seus serviços e assinaturas do Azure. A prática recomendada de segurança para esse arquivo é armazená-lo temporariamente fora de seus diretórios de origem (por exemplo, na pasta Libraries\Documents) e, em seguida, excluí-la após a importação ter sido concluído. Um usuário mal-intencionado que obtém acesso ao arquivo. publishsettings pode editar, criar e excluir seus serviços Azure.
